@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+    <Assembly>MindToModel.dll</Assembly>
+    <AddInId>97985678-1168-475E-953C-A6417D6F264F</AddInId>
+    <FullClassName>MindToModel.CsAddRibbonButtons</FullClassName>
+	<Name>TunnelAC2</Name>
+    <VendorId>AECHackathonMunich.MindToModel</VendorId>
+    <VendorDescription>MindToModel Team</VendorDescription>
+    </AddIn>
+</RevitAddIns>
