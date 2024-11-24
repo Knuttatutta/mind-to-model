@@ -1,0 +1,24 @@
+{
+    "form_name": "Formwork QC Checklist",
+    "fields": [
+      {
+        "id": 1,
+        "label": "Schedule",
+        "type": "bool",
+        "instructions": "Were there any delays today on the jobsite?"
+      },
+      {
+        "id": 2,
+        "label": "Work Summary",
+        "type": "text",
+        "instructions": "What was the worked on today?"
+      },   
+      {
+        "id": 2,
+        "label": "Delivery Summary",
+        "type": "text",
+        "instructions": "Was anything delivered to the jobsite today?"
+      }
+    ]
+  }
+  

@@ -1,0 +1,31 @@
+{
+    "form_name": "Formwork QC Checklist",
+    "fields": [
+      {
+        "id": 1,
+        "label": "Curing Period",
+        "type": "float",
+        "instructions": "What was the average temperature during the curing period?"
+      },
+      {
+        "id": 2,
+        "label": "Pour Date",
+        "type": "text",
+        "instructions": "When was the concrete poured?"
+      },   
+      {
+        "id": 2,
+        "label": "Formwork Removal Date",
+        "type": "text",
+        "instructions": "When was the formwork removed?"
+      },      
+      {
+        "id": 1,
+        "label": "Structural Integrity",
+        "type": "boolean",
+        "instructions": "Is the concrete free from visible defects?",
+        "options": ["Yes", "No"]
+      }
+    ]
+  }
+  
